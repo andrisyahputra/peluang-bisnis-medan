@@ -55,7 +55,7 @@
     </div>
 
     <!-- Total Investasi -->
-    <div class="bg-gradient-to-r from-blue-600 to-blue-700 rounded-xl p-6 text-white mb-8">
+    {{-- <div class="bg-gradient-to-r from-blue-600 to-blue-700 rounded-xl p-6 text-white mb-8">
         <div class="flex items-center justify-between">
             <div>
                 <p class="text-blue-100 text-lg">Total Estimasi Investasi</p>
@@ -65,7 +65,7 @@
                 <i class="fas fa-chart-line text-3xl"></i>
             </div>
         </div>
-    </div>
+    </div> --}}
 
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
         <!-- Peluang Per Sektor -->
