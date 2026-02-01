@@ -4,10 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login Admin - Peta Peluang Bisnis - Built with AI on biela.dev</title>
+    <title>Login Admin - Peta Peluang Bisnis</title>
     <meta name="description" content="Halaman login untuk panel administrasi Peta Peluang Bisnis.">
-    <link rel="icon" href="https://ide.biela.dev/biela_favicon_light.svg" media="(prefers-color-scheme: light)">
-    <link rel="icon" href="https://ide.biela.dev/biela_favicon_dark.svg" media="(prefers-color-scheme: dark)">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
 </head>

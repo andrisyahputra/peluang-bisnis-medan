@@ -5,11 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>@yield('title', 'Peta Peluang Bisnis') - Built with AI on biela.dev</title>
+    <title>@yield('title', 'Peta Peluang Bisnis') </title>
     <meta name="description" content="@yield('description', 'Eksplorasi peta peluang bisnis interaktif untuk menemukan potensi investasi dan sektor unggulan di kota kami.')">
     <!-- Favicon -->
-    <link rel="icon" href="https://ide.biela.dev/biela_favicon_light.svg" media="(prefers-color-scheme: light)">
-    <link rel="icon" href="https://ide.biela.dev/biela_favicon_dark.svg" media="(prefers-color-scheme: dark)">
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <script>

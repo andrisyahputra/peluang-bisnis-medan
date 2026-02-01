@@ -5,11 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>@yield('title', 'Dashboard') - Admin Panel - Built with AI on biela.dev</title>
+    <title>@yield('title', 'Dashboard') - Admin Panel</title>
     <meta name="description" content="Panel administrasi untuk mengelola data peta peluang bisnis.">
     <!-- Favicon -->
-    <link rel="icon" href="https://ide.biela.dev/biela_favicon_light.svg" media="(prefers-color-scheme: light)">
-    <link rel="icon" href="https://ide.biela.dev/biela_favicon_dark.svg" media="(prefers-color-scheme: dark)">
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
