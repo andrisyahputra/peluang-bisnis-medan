@@ -46,10 +46,16 @@ return [
         //     'throw' => false,
         //     'report' => false,
         // ],
+        // 'public' => [
+        //     'driver' => 'local',
+        //     'root' => public_path('storage'),
+        //     'url' => env('APP_URL') . '/storage',
+        //     'visibility' => 'public',
+        // ],
         'public' => [
             'driver' => 'local',
-            'root' => public_path('storage'),
-            'url' => env('APP_URL') . '/storage',
+            'root' => '/home1/andrimcm/public_html/storage/peluang-bisnis',
+            'url' => env('APP_URL') . '/storage/peluang-bisnis',
             'visibility' => 'public',
         ],
 
