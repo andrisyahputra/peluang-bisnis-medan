@@ -215,14 +215,6 @@
                 </div>
             </div>
         </div>
-        <div class="border-t border-primary-600 py-4">
-            <div class="container mx-auto px-4 text-center text-gray-400 text-lg">
-                <p>&copy; {{ date('Y') }} Peta Peluang Bisnis. AI vibe coded development by <a
-                        href="https://biela.dev/" target="_blank" class="text-accent-400 hover:underline">Biela.dev</a>,
-                    powered by <a href="https://teachmecode.ae/" target="_blank"
-                        class="text-accent-400 hover:underline">TeachMeCode® Institute</a></p>
-            </div>
-        </div>
     </footer> -->
 
     <!-- Leaflet JS -->
